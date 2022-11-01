@@ -15,7 +15,7 @@ jobs:
 
     - uses: gcarreno/setup-lazarus@master
       with:
-        lazarus-version: "2.0.10"
+        lazarus-version: "2.2.2"
 
 #     - run: |
 #         if (-not (Test-Path lazarus-2.2.0-fpc-3.2.2-win64.exe)) {
